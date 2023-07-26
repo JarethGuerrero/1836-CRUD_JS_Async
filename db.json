@@ -1,9 +1,14 @@
 {
   "perfil": [
     {
-      "nombre": "Christian",
-      "email": "Christian@alura.com",
+      "nombre": "Romina",
+      "email": "rominapetrova@gatitos.com",
       "id": 1
+    },
+    {
+      "nombre": "Coneja Sabrosa",
+      "email": "conejasabrosa@gatitos.com",
+      "id": "ed594177-64a2-406f-85b1-7ab1d3cc0708"
     }
   ]
 }
